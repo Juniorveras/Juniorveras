@@ -1,4 +1,4 @@
-## Salve, galera ! Sou o Junior 👋 
+## Salve galera ! Sou o Junior 👋 
 Sou **Dev Back-End** curto muito desenvolver e ainda mais aprender 😉
 
 ## 🔗 Links
